@@ -59,17 +59,6 @@ Formado pela **UFMG**, certificado em Power BI, Python, Power Automate e IA Gene
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielAguiar&show_icons=true&theme=dark&bg_color=080e17&title_color=00c8aa&icon_color=f59e0b&text_color=e8f1f8&border_color=1e3347&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAguiar&layout=compact&theme=dark&bg_color=080e17&title_color=00c8aa&text_color=e8f1f8&border_color=1e3347" />
-
-</div>
-
----
-
 ## 📌 Números que importam
 
 | | |
