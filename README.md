@@ -82,7 +82,6 @@ Formado pela **UFMG**, certificado em Power BI, Python, Power Automate e IA Gene
 
 Disponível para projetos de **BI, automação, ETL e análise de dados**.
 
-- 💼 [Workana](https://workana.com/freelancer/715f5140a01e01164f1f7420af4f411b) — freelas e projetos
 - 📧 gabriel.caguiar@hotmail.com
 - 💻 Belo Horizonte, MG · Brasil
 
