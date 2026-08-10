@@ -14,53 +14,56 @@ Cientista do Estado — Governo de Minas Gerais
 ---
 
 ## Sobre
-
-Sou Cientista do Estado formado pela UFMG, atuando há 2 anos como analista de dados e analista de convênios na **Diretoria Central de Gestão de Convênios de Entrada (DCGCE) — Secretaria de Estado de Casa Civil de MG**.
-
-Meu trabalho envolve análise de dados orçamentários e financeiros de convênios, desenvolvimento de soluções de automação e manutenção de painéis gerenciais em produção. Os projetos aqui publicados foram desenvolvidos e aplicados em ambiente real de gestão pública — não são exercícios acadêmicos.
-
-Tenho interesse contínuo em machine learning e aplicações de inteligência artificial voltadas à análise de dados institucionais.
-
+ 
+Cientista do Estado formado pela UFMG, com 2 anos e meio de experiência em análise de dados orçamentários e financeiros de convênios federais, desenvolvimento de automações e construção de painéis gerenciais em ambiente real de gestão pública. Atuo na **Secretaria Geral do Estado de Minas Gerais** desenvolvendo soluções que eliminam processos manuais repetitivos e transformam dados institucionais em informação clara para a tomada de decisão. Tenho interesse contínuo em automação inteligente, aplicação de inteligência artificial à melhoria de processos e inovação em serviços públicos.
+ 
+Os projetos aqui publicados foram desenvolvidos e aplicados em ambiente real de gestão pública — não são exercícios acadêmicos.
+ 
 ---
-
+ 
 ## Experiência Aplicada
-
-### Diretoria Central de Gestão de Convênios de Entrada — SCC/MG · Jan. 2024 – atual
-
-**Analista de convênios / Analista de dados**
-
-- Análise e registro de alterações orçamentárias e dados financeiros de convênios federais
-- Atuação com emendas parlamentares e projetos de captação de recursos
+ 
+### Secretaria Geral do Estado de Minas Gerais · Abr. 2026 – atual
+ 
+**Coordenador de Dados**
+ 
+- Coordenação das atividades de dados da Diretoria Central de Gestão de Convênios de Entrada, orientando prioridades, distribuindo demandas técnicas e acompanhando entregas da equipe de dados da diretoria
+- Coordenação do núcleo de dados do Grupo de Trabalho do Banco de Projetos da Superintendência Central de Gestão de Captação de Recursos, com desenvolvimento de aplicação em **Power Apps** para gestão centralizada do banco de projetos — solução em fase de homologação
+- Aplicação de boas práticas de tratamento e proteção de dados institucionais nos pipelines desenvolvidos, observando diretrizes da **LGPD** no manuseio de informações sensíveis e na estruturação de bases de dados
+- Atuação integrada com diferentes áreas técnicas e administrativas, apoiando a disseminação de soluções e o uso de dados na gestão
+### Secretaria de Estado de Casa Civil de Minas Gerais · Jan. 2024 – Abr. 2026
+ 
+**Analista de Dados**
+ 
+- Análise e registro de alterações orçamentárias e dados financeiros de convênios federais e instrumentos congêneres, atuação com emendas parlamentares federais e projetos de captação de recursos
 - Desenvolvimento de pipeline de engenharia de dados do **SIGA Brasil** para abastecimento do painel gerencial de convênios de entrada da DCGCE, construído em **QlikView** — responsável pela manutenção contínua do painel
-- Automatizei o pipeline de transparência de convênios do SIGCON, que exigia acesso manual processo a processo no SEI, download de PDFs e preenchimento de planilha — a solução passou a executar todo o ciclo automaticamente
-- Desenvolvi automação que monitora propostas SICONV sem Plano de Trabalho aprovado, eliminando varredura manual e entregando lista priorizada para atuação da equipe
-- Criei pipeline de extração via API do TransfereGov que substituiu o acesso manual a cada transferência especial — a servidora responsável passou a receber diretamente os casos que exigiam atenção, sem precisar navegar pelo portal
-- Desenvolvi o Painel de Emendas Parlamentares Federais no **Power BI**, integrando dados do TransfereGov, SIAFI e SIGCON-ENTRADA para acompanhamento de execução de emendas (2015–2025)
-- Atuação integrada com diferentes áreas técnicas e administrativas
-
+- Automação do pipeline de transparência de convênios do SIGCON: a solução substituiu o acesso manual processo a processo no SEI, download de PDFs e preenchimento de planilha, executando todo o ciclo automaticamente
+- Desenvolvimento de automação para monitoramento de propostas submetidas a programas do governo federal sem Pré-Qualificação realizada pela DCGCE, eliminando varredura manual e entregando lista priorizada para atuação da equipe
+- Criação de pipeline de extração via API do TransfereGov que substituiu o acesso manual a cada transferência especial — a servidora responsável passou a receber diretamente os casos que exigiam atenção
+- Desenvolvimento do Painel de Emendas Parlamentares Federais no **Power BI**, integrando dados do TransfereGov, SIAFI e SIGCON-ENTRADA para acompanhamento de execução de emendas federais (2015–2025)
 ### Autêntica Engenharia LTDA. · Jun. 2023 – Jan. 2024
-
+ 
 **Assessor de Inovação / Pessoal**
-
-- Gestão de relacionamento com clientes (CRM)
-- Apoio ao planejamento empresarial e gestão da inovação
-- Análise de dados internos para suporte estratégico
-
-### Diretoria de Fomento à Cultura — SECULT MG · Set. 2021 – Jul. 2022
-
+ 
+- Gestão de relacionamento com clientes (CRM) e apoio ao planejamento empresarial
+- Análise de dados internos para suporte estratégico e gestão da inovação
+- Estruturação de painéis de acompanhamento de indicadores de inovação e desempenho organizacional com Excel e Power BI
+- Levantamento e tratamento de dados para identificação de oportunidades de melhoria de processos
+### Secretaria de Estado de Cultura e Turismo de Minas Gerais · Set. 2021 – Jul. 2022
+ 
 **Estágio**
-
+ 
 - Apoio aos processos de análise, execução e pagamento de editais públicos
-- Inserção e controle de dados em bancos institucionais
-- Controle de processos via SEI e planilhas internas
-
-### Assembleia Legislativa de Minas Gerais · Jun. 2019 – Jun. 2021
-
+- Inserção e controle de dados em bancos institucionais; controle de processos via SEI
+- Acompanhamento e alimentação de painéis de monitoramento de indicadores culturais e execução de editais
+- Suporte na organização e estruturação de bases de dados para relatórios gerenciais
+### Assembleia Legislativa de Minas Gerais · Jun. 2019 – Jul. 2021
+ 
 **Estágio**
-
-- Análise de projetos legislativos
+ 
+- Análise de projetos legislativos e elaboração de pareceres técnico-parlamentares
 - Controle e organização de bases de dados e planilhas internas
-- Elaboração de pareceres e apoio técnico-parlamentar
+- Organização e padronização de planilhas para acompanhamento de indicadores legislativos básicos
 
 ---
 
@@ -100,17 +103,24 @@ Tenho interesse contínuo em machine learning e aplicações de inteligência ar
 
 ---
 
-## Formação & Certificações
-
+## Formação Complementar
+ 
+- **Seminário Internacional** — Desenvolvimento do Sistema da Indústria e da Cadeia de Suprimentos · Fuzhou, China
+- **Segurança da Informação em Tempos de IA** — ABIN
+- **TransfereGov** — Atos Preparatórios, Execução e Prestação de Contas 2024
+## Certificações
+ 
 - **Ciências do Estado** — UFMG (2018–2022)
 - **Power BI** — Certificação
-- **Python para Dados** — Certificação
+- **Python** — Certificação
 - **Power Automate** — Certificação
 - **Google AI Essentials** — Google
 - **Engenharia de Prompt e Aplicações de IA**
-- **Segurança da Informação em Tempos de IA** — ABIN
-- **TransfereGov — Atos Preparatórios, Execução e Prestação de Contas 2024**
-- **Seminário Internacional** — Desenvolvimento do Sistema da Indústria e da Cadeia de Suprimentos · Fuzhou, China
+- **Os pilares formais da AI: do Machine Learning à IA Generativa** — DIO
+- **Construa seu Assistente Virtual com Inteligência Artificial** — DIO *(projeto final: agente de monitoramento com LLM local via Ollama para análise automatizada de dados, sem exposição de informações a serviços externos)*
+- **Visão computacional** — DIO
+- **Técnicas de engenharia de prompt** — DIO
+- **Estatística básica** — ENAP
 
 ---
 
